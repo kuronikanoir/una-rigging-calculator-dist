@@ -1,0 +1,48 @@
+{
+  "serviceName": "UnaDer L2D Rigging Service",
+  "currency": "TWD",
+  "currencySymbol": "$",
+  "artistName": "UnaDer",
+  "contact": "",
+  "sns": "https://www.youtube.com/@CactusBalcony",
+  "link": "https://cactusbalconyart.com/",
+  "basePackages": [
+    {
+      "id": "basic_rigging",
+      "name": "Chibi",
+      "price": 5000,
+      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories, body\n✦ Mouth shapes: 3×3\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✘ Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "includedFeatures": [
+        { "id": 3, "included": true, "quantity": 1 },
+        { "id": 4, "included": true, "quantity": 1 },
+        { "id": 5, "disabled": true },
+        { "id": 6, "disabled": true },
+        { "id": 7, "disabled": true },
+        { "id": 12, "disabled": true },
+        { "id": 14, "disabled": true },
+        { "id": 16, "disabled": true },
+        { "id": 17, "included": true, "quantity": 3 },
+        { "id": 18, "disabled": true }
+      ]
+    },
+    {
+      "id": "standard_rigging",
+      "name": "Standard",
+      "price": 15000,
+      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories, body\n✦ Mouth shapes: 3×3\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✘ Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "includedFeatures": []
+    },
+    {
+      "id": "advanced_rigging",
+      "name": "Advanced",
+      "price": 23000,
+      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories (advanced), body (advanced)\n✦ Mouth shapes: 4×4\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✔ Advanced: Wry Mouth (iOS only), Pout (iOS only)",
+      "includedFeatures": [
+        { "id": 1, "included": true, "quantity": 1 },
+        { "id": 2, "included": true, "quantity": 1 },
+        { "id": 11, "included": true, "quantity": 1 }
+      ]
+    }
+  ],
+  "footer": "2026 UnaDer. All rights reserved."
+}

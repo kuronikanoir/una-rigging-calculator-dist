@@ -1,0 +1,48 @@
+{
+  "serviceName": "UnaDer L2D 建模服務",
+  "currency": "新台幣",
+  "currencySymbol": "$",
+  "artistName": "UnaDer",
+  "contact": "",
+  "sns": "https://www.youtube.com/@CactusBalcony",
+  "link": "https://cactusbalconyart.com/",
+  "basePackages": [
+    {
+      "id": "basic_rigging",
+      "name": "Q版",
+      "price": 5000,
+      "description": "✦ 角度：頭部XYZ、身體XYZ\n✦ 物理(晃動)：眼睛、頭髮衣物飾品、身體\n✦ 嘴型數：3×3\n✔ 呼吸\n✔ 基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✘ 不包含進階：歪嘴(iOS only)、嘟嘴(iOS only)",
+      "includedFeatures": [
+        { "id": 3, "included": true, "quantity": 1 },
+        { "id": 4, "included": true, "quantity": 1 },
+        { "id": 5, "disabled": true },
+        { "id": 6, "disabled": true },
+        { "id": 7, "disabled": true },
+        { "id": 12, "disabled": true },
+        { "id": 14, "disabled": true },
+        { "id": 16, "disabled": true },
+        { "id": 17, "included": true, "quantity": 3 },
+        { "id": 18, "disabled": true }
+      ]
+    },
+    {
+      "id": "standard_rigging",
+      "name": "正比標準",
+      "price": 15000,
+      "description": "✦ 角度：頭部XYZ、身體XYZ\n✦ 物理(晃動)：眼睛、頭髮衣物飾品、身體\n✦ 嘴型數：3×3\n✔ 呼吸\n✔ 基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✘ 不包含進階：歪嘴(iOS only)、嘟嘴(iOS only)",
+      "includedFeatures": []
+    },
+    {
+      "id": "advanced_rigging",
+      "name": "正比進階",
+      "price": 23000,
+      "description": "✦ 角度：頭部XYZ、身體XYZ\n✦ 物理(晃動)：眼睛、頭髮衣物飾品進階、身體進階\n✦ 嘴型數：4×4\n✔ 呼吸\n✔ 基礎表情：驚訝、微笑眼、生氣(iOS only)、害羞\n✔ 進階：歪嘴(iOS only)、嘟嘴(iOS only)",
+      "includedFeatures": [
+        { "id": 1, "included": true, "quantity": 1 },
+        { "id": 2, "included": true, "quantity": 1 },
+        { "id": 11, "included": true, "quantity": 1 }
+      ]
+    }
+  ],
+  "footer": "2026 UnaDer. 版權所有。"
+}
