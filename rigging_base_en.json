@@ -11,7 +11,7 @@
       "id": "basic_rigging",
       "name": "Chibi",
       "price": 5000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 3×3\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘  Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew, Cheek Puff (iOS only)\n",
       "includedFeatures": [
         { "id": 3, "included": true, "quantity": 1 },
         { "id": 4, "included": true, "quantity": 1 },
@@ -29,14 +29,14 @@
       "id": "standard_rigging",
       "name": "Standard",
       "price": 15000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 4×4\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘  Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew／Pout (iOS only)\n",
       "includedFeatures": []
     },
     {
       "id": "advanced_rigging",
       "name": "Advanced",
       "price": 23000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 4×4\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✔ Advanced: Crooked Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew／Pout (iOS only)\n",
       "includedFeatures": [
         { "id": 1, "included": true, "quantity": 1 },
         { "id": 2, "included": true, "quantity": 1 },
