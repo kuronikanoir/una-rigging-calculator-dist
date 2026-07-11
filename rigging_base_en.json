@@ -11,7 +11,7 @@
       "id": "basic_rigging",
       "name": "Chibi",
       "price": 5000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories, body\n✦ Mouth shapes: 3×3\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✘ Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 3×3\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘  Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
       "includedFeatures": [
         { "id": 3, "included": true, "quantity": 1 },
         { "id": 4, "included": true, "quantity": 1 },
@@ -29,14 +29,14 @@
       "id": "standard_rigging",
       "name": "Standard",
       "price": 15000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories, body\n✦ Mouth shapes: 3×3\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✘ Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 4×4\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✘  Advanced not included: Wry Mouth (iOS only), Pout (iOS only)",
       "includedFeatures": []
     },
     {
       "id": "advanced_rigging",
       "name": "Advanced",
       "price": 23000,
-      "description": "✦ Angles: Head XYZ, Body XYZ\n✦ Physics (jiggle): Eyes, hair/clothing/accessories (advanced), body (advanced)\n✦ Mouth shapes: 4×4\n✔ Breathing\n✔ Basic expressions: Surprised, Smiling Eyes, Angry (iOS only), Shy\n✔ Advanced: Wry Mouth (iOS only), Pout (iOS only)",
+      "description": "✦ Angles: Head XYZ, Body XYZ\nPhysics (movement): Eyes, Hair/Clothing/Accessories, Body\n✦ Mouth Forms: 4×4\n✔ Breathing\n✔ Basic Expressions: Surprise, Smiling Eyes, Angry (iOS only), Blush\n✔ Advanced: Crooked Mouth (iOS only), Pout (iOS only)",
       "includedFeatures": [
         { "id": 1, "included": true, "quantity": 1 },
         { "id": 2, "included": true, "quantity": 1 },
