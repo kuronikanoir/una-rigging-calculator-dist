@@ -29,14 +29,14 @@
       "id": "standard_rigging",
       "name": "Standard",
       "price": 15000,
-      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew／Pout (iOS only)\n",
+      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew／Cheek Puff (iOS only)\n",
       "includedFeatures": []
     },
     {
       "id": "advanced_rigging",
       "name": "Advanced",
       "price": 23000,
-      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 3×3 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (3): Blush／Gloom／Teary Eyes\n✦ Extra Expression (1)\n✘ Advanced not included: Mouth Skew／Pout (iOS only)\n",
+      "description": "✦ Head & Body: XYZ Angles／Basic Physics Movement／Breathing\n✦ Eyes & Eyebrows: Face Tracking／Normal & Smiling Blink／Surprise\n✦ Mouth Forms: 4×4 Mouth Forms\n✦ Hair & Clothing: Basic Physics Movement\n✦ Basic Expressions (4): Blush／Gloom／Teary Eyes／Angry\n✦ Extra Expression (1)\n✔ Advanced: Mouth Skew／Cheek Puff (iOS only)\n",
       "includedFeatures": [
         { "id": 1, "included": true, "quantity": 1 },
         { "id": 2, "included": true, "quantity": 1 },
