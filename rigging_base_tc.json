@@ -1,8 +1,8 @@
 {
-  "serviceName": "UnaDer L2D 建模服務",
+  "serviceName": "UnaAtArt L2D 建模服務",
   "currency": "新台幣",
   "currencySymbol": "$",
-  "artistName": "UnaDer",
+  "artistName": "Una",
   "contact": "",
   "sns": "https://www.youtube.com/@CactusBalcony",
   "link": "https://cactusbalconyart.com/",
@@ -44,5 +44,5 @@
       ]
     }
   ],
-  "footer": "2026 Una. 版權所有。"
+  "footer": "2026 UnaAtArt. 版權所有。"
 }
