@@ -2,7 +2,7 @@ id,feature,price,notes,max count,group
 0,Tongue Out,$3000,iOS only,1,
 1,Mouth Skew,$500,iOS only,1,
 2,Cheek Puff,$500,iOS only,1,
-3,Animal Ears,$1000+,Default blinking and movement,,
+3,Animal Ears,$1000+,Default movement synced with blinking.,,
 4,Tail,$1000+,,,
 5,Additional Parts,$1000+,"Wings horns and others",,
 6,Switchable Chibi Form,$3000+,,,
